@@ -2,4 +2,5 @@ env/
 .env/
 images/
 *.csv
+*.tiff
 
